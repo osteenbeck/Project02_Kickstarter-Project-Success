@@ -1,0 +1,11 @@
+.ipynb_checkpoints/
+.~lock.*.*
+.DS_Store
+no_upload/
+*.ods
+*.odt
+*.pages
+*.key
+*.zip
+*.csv
+oldREADME.md
